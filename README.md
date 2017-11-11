@@ -23,7 +23,7 @@ The command structure is:
 java HCODA numNode numEdgeNode numCluster numNodeAttr numEdgeNodeAttr lambda1 lambda2 lambda3 ratio directory initNodeLabelFile initEdgeNodeLabelFile nodeDataFile edgeNodeDataFile node_nodeLinkFile node_edgeNodeLinkFile resultFile
 ```
 
-where input paramters are:
+where input parameters are:
 
 param-0:numNode = number of nodes in graph
 
@@ -81,6 +81,7 @@ The "data" folder contains following files:
 ## Cite
 
 Please cite our paper if you use this code in your work:
+
 Paper title: [Community-based Outlier Detection for Edge-attributed Graphs](https://arxiv.org/abs/1612.09435)
 
 Authors: Supriya Pandhre, Manish Gupta, Vineeth N Balasubramanian
