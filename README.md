@@ -5,10 +5,10 @@ This is a Java implementation of Holistic Community Outlier Detection Algorithm(
 
 The repository contains code and DBLP data used in the experiment.
 
-Supriya Pandhre, Manish Gupta, Vineeth N Balasubramanian, [Community-based Outlier Detection for Edge-attributed Graphs](https://arxiv.org/abs/1612.09435)
+*Supriya Pandhre, Manish Gupta, Vineeth N Balasubramanian, [Community-based Outlier Detection for Edge-attributed Graphs](https://arxiv.org/abs/1612.09435)*
 
 
-## To run the code, use following command:
+## To run the code, use following commands:
 ```
 cd code
 javac FileOperate.java
